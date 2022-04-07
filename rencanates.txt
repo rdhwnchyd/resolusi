@@ -5,6 +5,6 @@ belajar
 -PHP
 -JavaScript
 -Laravel
--NodeJs
+
 -Python
 -ReactJs
