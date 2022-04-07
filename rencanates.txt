@@ -1,3 +1,8 @@
 rencana kedepan
 - membuat website sendiri
 - membeli web hosting
+belajar 
+-PHP
+-JavaScript
+-Laravel
+-NodeJs
